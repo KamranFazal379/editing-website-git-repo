@@ -1,0 +1,37 @@
+h1 {
+	color: #fff;
+	text-align: center;
+	text-transform: capitalize;
+
+	// background: #000;
+	background: linear-gradient(
+		45deg,
+		rgba(34, 164, 116, 1) 0%,
+		rgba(41, 47, 143, 1) 100%
+	);
+
+	padding: 1.7rem;
+	word-spacing: 0.7rem;
+}
+
+h3 {
+	text-align: center;
+	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+	font-size: 2rem;
+	text-transform: capitalize;
+	background: linear-gradient(45deg, red, blue, yellow);
+	padding: 1rem;
+
+	color: #fff;
+}
+
+img {
+	border: 0.3rem solid black;
+	max-width: 200px;
+	display: block;
+	padding: 0.7rem;
+}
+p {
+	line-height: 2rem;
+	color: #333;
+}
